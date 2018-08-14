@@ -1,2 +1,2 @@
 # hello-world
-Jonathans first repository
+Jonathan came here and made his first changes.
